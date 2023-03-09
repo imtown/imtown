@@ -4,9 +4,9 @@
  
  
 ## **I'm a fresher. I'm discovering what wonderful community Software Testers are, improving software quality and exceeding client expectation!!**
-- 👨‍💻 You can find my projects here [Portfolio](https://www.linkedin.com/login)
+- 👨‍💻 You can find my projects below the repository
 - ✍ I'm updating my knowledge in the field of Information of Technology
-- 😄 Pronouns: He/Hi
+- 😄 Pronouns: He/His
 - 🌱 Fun fact: I speak 3 languages ( Vietnamese, Japanese and English)
 
 I'm best reached via [email](nltruong0801@gmail.com). I'm always open to interesting conversations and collaboration.
